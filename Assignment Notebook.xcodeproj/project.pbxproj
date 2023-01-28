@@ -14,6 +14,7 @@
 		B654C8F829847CA400B8A408 /* Assignment_NotebookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B654C8F729847CA400B8A408 /* Assignment_NotebookTests.swift */; };
 		B654C90229847CA400B8A408 /* Assignment_NotebookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B654C90129847CA400B8A408 /* Assignment_NotebookUITests.swift */; };
 		B654C90429847CA400B8A408 /* Assignment_NotebookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B654C90329847CA400B8A408 /* Assignment_NotebookUITestsLaunchTests.swift */; };
+		B654C9112984AE6F00B8A408 /* AssignmentList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B654C9102984AE6F00B8A408 /* AssignmentList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B654C8FD29847CA400B8A408 /* Assignment NotebookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Assignment NotebookUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B654C90129847CA400B8A408 /* Assignment_NotebookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_NotebookUITests.swift; sourceTree = "<group>"; };
 		B654C90329847CA400B8A408 /* Assignment_NotebookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_NotebookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B654C9102984AE6F00B8A408 /* AssignmentList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				B654C8E629847CA100B8A408 /* Assignment_NotebookApp.swift */,
 				B654C8E829847CA100B8A408 /* ContentView.swift */,
+				B654C9102984AE6F00B8A408 /* AssignmentList.swift */,
 				B654C8EA29847CA300B8A408 /* Assets.xcassets */,
 				B654C8EC29847CA300B8A408 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B654C9112984AE6F00B8A408 /* AssignmentList.swift in Sources */,
 				B654C8E929847CA100B8A408 /* ContentView.swift in Sources */,
 				B654C8E729847CA100B8A408 /* Assignment_NotebookApp.swift in Sources */,
 			);
